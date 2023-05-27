@@ -138,7 +138,7 @@ cat /dev/null > ~/.bash_history && history -c
 rm /bin/ubuinst* > /dev/null 2>&1
 exit;
 else
-  echo -e 'by: alanssh' >/usr/lib/telegram
+  echo -e 'by: keorichssh' >/usr/lib/telegram
   msg -bar
   echo -e "\e[1;97m           \e[5m\033[1;100m   ATUALIZAÇÃO DO SISTEMA   \033[1;37m"
   msg -bar

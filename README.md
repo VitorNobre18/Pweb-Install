@@ -1,8 +1,8 @@
 🔰GESTOR-SSH🔰
 
-🔹️PAINELWEB AlanSSH Free!
+🔹️PAINELWEB KeorichSSH Free!
       
-🍷feat: @scottssh
+🍷feat: @keorich18
 
 
 ⬇️ Instalador
@@ -12,7 +12,7 @@ apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/Alanluis
 
 🔑 Key Ilimitada
 ```
-alanssh
+keorichssh
 ```
 
 🔄 Sincronizador

@@ -4,6 +4,11 @@
       
 🍷feat: @keorich18
 
+```
+# ATUALIZAR PACOTES DO SISTEMA
+```
+apt-get update -y; apt-get upgrade -y;
+```
 
 ⬇️ Instalador
 ```
